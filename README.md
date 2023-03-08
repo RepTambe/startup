@@ -5,7 +5,7 @@ I found it interesting that it costs you the same amount regardless of whether y
 
 Browser address: http://bookapp.click/
 
-Remote shell command: ssh -i ~/.ssh/260web.pem ubuntu@bookapp.click^C
+Remote shell command: ssh -i ~/.ssh/260web.pem ubuntu@bookapp.click
 
 2/2/23:
 Secured web server communication by configuring Caddy to request a certificate from Let's Encrypt for the domain name.
