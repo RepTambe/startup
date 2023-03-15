@@ -37,10 +37,12 @@ Made CSS Practice project. Can be used in Startup App's website.
 2/13/23
 Made CSS FLex Project on codePen
 
-03/13/22
+03/13/23
 Completed my Javascript Startup. No funcitonality yet but the buttons are in place.
 Can check out at Bookapp.click
 
+03/14/23
+Did a codepen on API's. Made a riddle API and love the riddles it provides me with. Can't wait to implement this in my project.
 
 
 # Design
