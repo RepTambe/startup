@@ -1,3 +1,6 @@
+All my practice Codepens can be found here:
+https://codepen.io/RepTambe
+
 1/27/23 :
 Set up a web server with AWS and a domain
 
@@ -30,6 +33,14 @@ Sub-site deploy command: ./deployFiles.sh -k ~/Downloads/260web.pem -h bookapp.c
 
 2/10/23:
 Made CSS Practice project. Can be used in Startup App's website.
+
+2/13/23
+Made CSS FLex Project on codePen
+
+03/13/22
+Completed my Javascript Startup. No funcitonality yet but the buttons are in place.
+Can check out at Bookapp.click
+
 
 
 # Design
