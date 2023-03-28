@@ -44,6 +44,19 @@ Can check out at Bookapp.click
 03/14/23
 Did a codepen on API's. Made a riddle API and love the riddles it provides me with. Can't wait to implement this in my project.
 
+03/23/23
+Set up Simon WebService
+
+I gained knowledge of how to use HTML, CSS, JavaScript, and WebService to build the Simon Game web application. For the about, home, play, and scores sections, this included the design, appearances, and functionality. Although there was a lot of material, I carefully studied it and transcribed it.
+
+Sub-site name: https://simon.bookapp.click/
+
+Sub-site deploy command: ./deployService.sh -k ~/Downloads/260web.pem -h bookapp.click -s simon
+
+03/27/23
+Set up Simon DataBase.
+
+I learned how to implement the Simon Game web application using HTML, CSS, JavaScript, WebService and DataBase. I connected the database with Atlas and MongoDB. I love the flexibility MongoDB gives and I learned a ton from this simon code. 
 
 # Design
 
