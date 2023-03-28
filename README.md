@@ -16,7 +16,7 @@ Secured web server communication by configuring Caddy to request a certificate f
 https://bookapp.click/
 With the security certificate, the request changed from http -> https
 
-2/6/23 (C4LV1NPU6):
+2/6/23:
 Set up official HTML website.
 
 
@@ -57,6 +57,13 @@ Sub-site deploy command: ./deployService.sh -k ~/Downloads/260web.pem -h bookapp
 Set up Simon DataBase.
 
 I learned how to implement the Simon Game web application using HTML, CSS, JavaScript, WebService and DataBase. I connected the database with Atlas and MongoDB. I love the flexibility MongoDB gives and I learned a ton from this simon code. 
+
+Sub-site deploy command: ./deployService.sh -k ~/Downloads/260web.pem -h bookapp.click -s simon
+
+Set up Simon login. 
+I learned how to implement the login functionality for the Simon Game web application.
+
+Sub-site deploy command: ./deployService.sh -k ~/Downloads/260web.pem -h bookapp.click -s simon
 
 # Design
 
